@@ -1,9 +1,9 @@
-# keyword-extractor
+# topic-extractor
 ## Overview
 This projects gets the any weburl as parameter and returns the important topics in the text visible on the website.
 
 ## Installation and Setup
-1. Clone the github repo: **git clone https://github.com/vishal-soriya/keyword-extractor.git**
+1. Clone the github repo: **git clone https://github.com/vishal-soriya/topic-extractor.git**
 2. Enable the virtualenv:
 3. Install depedancies: **pip3 install -r requirements.txt**
 
