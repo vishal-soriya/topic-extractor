@@ -29,3 +29,7 @@ if __name__ == "__main__":
         print("Invalid url provided")
     except ValueError:
         print("Unknown value found")
+    except KeyError:
+        print("Keyerror: key not found")
+    except Exception:
+        print("Something went wrong!")
